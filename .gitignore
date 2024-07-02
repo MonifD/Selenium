@@ -1,0 +1,6 @@
+.venv
+__pycache__
+./git_test/__pycache__
+./git_test/.env
+./portfolio_test_Jenkins/.env
+geckodriver.exe
